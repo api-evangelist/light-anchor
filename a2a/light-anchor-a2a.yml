@@ -1,0 +1,42 @@
+generated: '2026-07-28'
+method: probed
+source: https://lightanchor.ai/.well-known/agent.json
+description: 'A2A Agent Card observed at /.well-known/agent.json on lightanchor.ai. Grade is measured
+  against the A2A 1.0.0 AgentCard object: ''conformant'' passes every structural check, ''near-conformant''
+  is correctly shaped but omits optional fields, ''flavored'' fails a hard check and is an agent card
+  in spirit rather than in schema. Provider-published by construction — served from the provider''s own
+  host; nothing here is derived or generated.'
+discovery:
+  path: /.well-known/agent.json
+  canonical: false
+  host: lightanchor.ai
+conformance:
+  spec: A2A 1.0.0
+  grade: flavored
+  protocol_version: null
+  preferred_transport: null
+  deviations:
+  - capabilities-not-object
+  - no-protocolVersion
+  - skills-not-array
+  - no-defaultInputModes
+  - no-defaultOutputModes
+  - no-preferredTransport
+  - no-version
+card:
+  name: Light Anchor
+  description: Light Anchor builds AI-run consumer brands. We own and operate our own brands today, each
+    run by AI agents across marketing, sourcing, operations, and support. Portfolio includes Seoul Dispatch
+    (K-Beauty), The Half Life (supplements), The Stoic Supply (apparel), Meme Tees, and Slow Haste (K-Beauty).
+    Backed by Y Combinator (YC P26).
+  url: https://lightanchor.ai
+  version: null
+  documentation_url: null
+  skills: null
+  file: light-anchor-agent-card.json
+x-evidence:
+  fetched: '2026-07-28'
+  url: https://lightanchor.ai/.well-known/agent.json
+  http_status: 200
+  content_type: application/json
+  note: Verbatim body saved alongside this manifest. No field inferred.

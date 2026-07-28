@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "name": "Light Anchor",
+  "description": "Light Anchor builds AI-run consumer brands. We own and operate our own brands today, each run by AI agents across marketing, sourcing, operations, and support. Portfolio includes Seoul Dispatch (K-Beauty), The Half Life (supplements), The Stoic Supply (apparel), Meme Tees, and Slow Haste (K-Beauty). Backed by Y Combinator (YC P26).",
+  "url": "https://lightanchor.ai",
+  "capabilities": [
+    "autonomous_brand_operations",
+    "ai_agent_e_commerce",
+    "merchandising_automation",
+    "creative_generation",
+    "inventory_and_sourcing",
+    "customer_support_automation",
+    "ad_creative_testing",
+    "cross_brand_signal"
+  ],
+  "portfolio": [
+    {
+      "code": "LA-001",
+      "name": "Seoul Dispatch",
+      "category": "K-Beauty Subscription",
+      "url": "https://seouldispatch.com"
+    },
+    {
+      "code": "LA-002",
+      "name": "The Half Life",
+      "category": "Lifestyle Supplements",
+      "url": "https://thehalflife.co"
+    },
+    {
+      "code": "LA-003",
+      "name": "The Stoic Supply",
+      "category": "Stoic Philosophy Apparel"
+    },
+    {
+      "code": "LA-004",
+      "name": "Meme Tees",
+      "category": "Custom Meme Apparel"
+    },
+    {
+      "code": "LA-005",
+      "name": "Slow Haste",
+      "category": "K-Beauty Subscription",
+      "url": "https://slowhaste.com"
+    }
+  ],
+  "agents": [
+    {
+      "code": "CEO",
+      "scope": "per-brand",
+      "status": "active"
+    },
+    {
+      "code": "GM",
+      "scope": "per-brand",
+      "status": "active"
+    },
+    {
+      "code": "ENG",
+      "scope": "shared",
+      "status": "active"
+    },
+    {
+      "code": "INF",
+      "scope": "shared",
+      "status": "coming-soon"
+    }
+  ],
+  "protocols": {
+    "llms_txt": "https://lightanchor.ai/llms.txt",
+    "llms_full_txt": "https://lightanchor.ai/llms-full.txt"
+  },
+  "contact": {
+    "email": "founders@lightanchor.ai",
+    "website": "https://lightanchor.ai",
+    "demo": "https://cal.com/team/light-anchor/book-a-meeting"
+  },
+  "operator": {
+    "name": "Light Anchor Inc.",
+    "url": "https://lightanchor.ai",
+    "backed_by": "Y Combinator (YC P26)"
+  }
+}
