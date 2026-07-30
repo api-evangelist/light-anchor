@@ -1,0 +1,144 @@
+# LIGHT ANCHOR
+
+> AI-run consumer brands. Scaling at the speed of compute, not headcount.
+> Backed by Y Combinator (YC P26). San Francisco.
+
+- Website: https://lightanchor.ai
+- About: https://lightanchor.ai/about
+- Hiring: https://lightanchor.ai/hiring
+- LinkedIn: https://www.linkedin.com/company/light-anchor
+- Email: founders@lightanchor.ai
+- Blog: https://lightanchor.ai/blog
+- Terms of Service: https://lightanchor.ai/terms
+- Privacy: https://lightanchor.ai/privacy
+- LLM context: https://lightanchor.ai/llms.txt
+
+---
+
+## The Old World
+
+For all of history, a company was people. Every decision, every invoice, every number in a ledger passed through a human hand. We built org charts to move information between minds and called the overhead operations. Most of it was coordination: people waiting on people, reconciling what other people had done. We mistook the headcount for the value. The lamp burned in the counting house long after the sun went down, and we told ourselves that was the price of running something real.
+
+## The New World
+
+The company is no longer the people. It is the system. Operations run themselves now, end to end, with no one in the loop to forward the email or update the sheet. The work still happens, faster and without fatigue, but the coordination tax is gone. What is left for us is judgment: deciding what the system should want. We are not automating jobs. We are building companies that operate on their own, starting with personal care, the small things people reach for every day. The busywork runs without us now, and what is left is ours to choose.
+
+---
+
+## Brands
+
+We operate several brands, deliberately spread across categories to
+test different hypotheses.
+
+- LA-001 Seoul Dispatch: K-Beauty Subscription. https://seouldispatch.com
+- LA-002 The Half Life: Lifestyle Supplements. https://thehalflife.co
+- LA-003 The Stoic Supply: Stoic Philosophy Apparel.
+- LA-004 Meme Tees: Custom Meme Apparel.
+- LA-005 Slow Haste: K-Beauty Subscription. https://slowhaste.com
+
+Portfolio totals: 5 brands across 4 verticals on Shopify, operating 24/7.
+
+---
+
+## Platform
+
+Each brand independent. Every brand compounding. Every brand we launch
+makes the platform smarter, and the marginal cost of launching the next
+brand keeps falling. Our bet isn't just to operate more stores. It's to
+understand customers better than any human team can, and capture demand
+the moment it shifts.
+
+- Independent: each brand operates with its own memory, policies, decisions, and proposals.
+- Shared tooling: every tool the agents use is shared across the portfolio.
+- Consumer simulation: every ad, sale, and decision feeds a central record we simulate consumer behavior against.
+
+---
+
+## Founders
+
+### Sangha Park, Co-Founder
+- Brown University (CS + Applied Math)
+- Sendbird, Lead Product Manager
+- LinkedIn: https://www.linkedin.com/in/sanghaha/
+
+### Chase Kim, Co-Founder
+- Penn State University (IST)
+- Sendbird, Head of Forward Deployment
+- LinkedIn: https://www.linkedin.com/in/chasingjohnn/
+
+We met at Sendbird (YC W16), where we led the AI agent product and
+forward deployment teams during its 2024 pivot into AI agents for
+customer experience. Sendbird built the messaging APIs behind DoorDash,
+Reddit, and Hinge.
+
+→ Contact us at: founders@lightanchor.ai
+
+---
+
+## AdBench
+
+Coming soon. Lineup: Opus 4.7, GPT 5.5, GLM 5.1, Gemini 3.1 Pro.
+
+Waitlist: https://lightanchor.ai/adbench
+
+---
+
+## Blog
+
+Read our latest posts: https://lightanchor.ai/blog
+
+---
+
+## Hiring
+
+Every role here follows one rule: we scale with AI, not headcount. Manual operations belong to agents. People supply what agents cannot: strategy, taste, novelty, and the creative hacks that make one person operate like a department.
+
+### Founding Engineer
+
+Mission: Build the AI-native P&G and its execution layer, a portfolio of consumer brands operated by AI from day one.
+Location: San Francisco & Seoul.
+Language: English + 1 preferred.
+Salary: $140,000-$200,000.
+Equity: meaningful early equity.
+Bonus: tied to sales performance.
+Salary/equity/bonus ratio: candidate decides the mix during negotiation.
+Ratio reference: Shopify Flex Comp, https://www.shopify.com/careers/faq.
+Core qualification: You ship complete systems, not demos.
+Preferred: experience building physical businesses, consumer brands, commerce, fulfillment, or operations.
+Apply: https://lightanchor.ai/hiring/founding-engineer
+
+### Founding Creative Director
+
+Mission: Create multiple consumer brands and the agent-driven creative system behind them.
+Location: San Francisco & Seoul.
+Language: English + 1 preferred.
+Salary: $120,000-$180,000.
+Equity: meaningful early equity.
+Bonus: tied to sales performance.
+Salary/equity/bonus ratio: candidate decides the mix during negotiation.
+Ratio reference: Shopify Flex Comp, https://www.shopify.com/careers/faq.
+Core qualification: You have started and shipped a brand from zero.
+Agent workflow: You know how to tokenmaxx: give agents deep context, run parallel explorations, build reusable prompt and reference systems, and curate aggressively.
+Apply: https://lightanchor.ai/hiring/founding-creative-director
+
+### Founding Marketer
+
+Mission: Grow multiple consumer brands across every channel and build the agent-driven growth engine behind them.
+Location: San Francisco & Seoul.
+Language: English + 1 preferred.
+Salary: $120,000-$180,000.
+Equity: meaningful early equity.
+Bonus: tied to sales performance.
+Salary/equity/bonus ratio: candidate decides the mix during negotiation.
+Ratio reference: Shopify Flex Comp, https://www.shopify.com/careers/faq.
+Core qualification: You have grown a consumer brand with your own hands, from first customers to real revenue.
+Scope: go-to-market, performance marketing, creator and affiliate programs, lifecycle and retention, measurement.
+Apply: https://lightanchor.ai/hiring/founding-marketer
+
+General application: if none of the open roles fit, email founders@lightanchor.ai with the role you would own and the strongest thing you have built or grown. Details: https://lightanchor.ai/hiring
+
+---
+
+© 2026 · San Francisco
+LinkedIn: https://www.linkedin.com/company/light-anchor
+Email: founders@lightanchor.ai

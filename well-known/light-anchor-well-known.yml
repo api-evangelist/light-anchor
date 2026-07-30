@@ -1,0 +1,84 @@
+generated: '2026-07-19'
+method: searched
+source: https://lightanchor.ai/.well-known/
+description: >-
+  Results of probing the /.well-known/ discovery surface for the Light Anchor website host and the
+  candidate developer subdomains. Light Anchor publishes no public API, so there is no API base host
+  to probe; the docs./api./developers. subdomains resolve via a wildcard to the site edge but answer
+  404 for every path. The one real document on the surface is /.well-known/agent.json, a
+  self-described agent descriptor (schema_version 1.0) listing the company's capabilities, brand
+  portfolio and operating agents. It was discovered via sitemap.xml, not by convention probing, and
+  is saved verbatim. Status is the HTTP code observed at fetch time.
+hosts:
+  - host: https://lightanchor.ai
+    documents:
+      - path: /.well-known/agent.json
+        status: 200
+        type: application/json
+        file: light-anchor-agent.json
+        note: >-
+          Non-standard agent descriptor published by the company. Declares schema_version 1.0,
+          eight capabilities, a five-brand portfolio, four operating agents (CEO/GM per-brand,
+          ENG shared active, INF shared coming-soon) and a protocols block pointing at llms.txt.
+          Not an A2A Agent Card and not an ai-plugin manifest.
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+  - host: https://www.lightanchor.ai
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+  - host: https://docs.lightanchor.ai
+    note: Resolves via wildcard DNS to the site edge; no docs site is published. All paths 404.
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+  - host: https://api.lightanchor.ai
+    note: Resolves via wildcard DNS to the site edge; no API is published. All paths 404.
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+  - host: https://developers.lightanchor.ai
+    note: Resolves via wildcard DNS to the site edge; no developer portal is published. All paths 404.
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
